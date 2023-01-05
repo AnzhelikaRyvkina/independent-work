@@ -11,3 +11,5 @@ NeuroStartUp — динамически развивающийся старта�
 ![NeuroStartUp](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png?raw=true)
 
 change 2
+
+666
